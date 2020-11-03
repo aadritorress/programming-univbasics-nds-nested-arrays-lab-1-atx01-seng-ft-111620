@@ -39,7 +39,7 @@ def matrix_lookup(matrix, row, column)
 
 end
 
-def matrix_update(matrix, row, column, new_value)
+def matrix_update
 
   matrix [row][2] << new_value
  
