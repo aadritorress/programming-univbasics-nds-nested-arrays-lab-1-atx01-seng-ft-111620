@@ -30,7 +30,7 @@ end
 
 def matrix_lookup(matrix, row, column)
   
-  binding.pry
+  #binding.pry
   matrix[row][1] 
   matrix[column][3]
   
