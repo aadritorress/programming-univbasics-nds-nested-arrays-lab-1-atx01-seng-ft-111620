@@ -30,7 +30,7 @@ end
 
 def matrix_lookup(matrix, row, column)
   
-  matrix[1][1]
+  matrix_lookup[matrix][1][1]
   row[1][1] 
   column[1][1] 
   
