@@ -32,7 +32,7 @@ def matrix_lookup(matrix, row, column)
   
   #binding.pry
   matrix[row][1] 
-  matrix[column][3]
+  matrix[column][1]
   
   # Given any matrix (array of arrays), a row index and a column index, 
   # Return the matrix's content at that row and and column
