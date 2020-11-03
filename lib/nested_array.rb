@@ -40,7 +40,7 @@ def matrix_lookup(matrix, row, column)
 end
 
 def matrix_update(matrix, row, column, new_value)
-  
+  binding.pry
   matrix_update[new_value] << "Lemons"
   
   # Given any matrix (array of arrays), a row index and a column index, 
